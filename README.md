@@ -29,7 +29,7 @@ how to make async calls with Redux like Ajax requests
 
 #### architecture and challenges of weather forecast browser
 *Architecture*
-![](mockup.png)
+![](ref/mockup.png)
 
 *First challenge*
 
